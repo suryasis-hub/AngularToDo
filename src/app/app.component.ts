@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
   <input type="checkbox" id="task2" name="task2" value="Task2">
   <label for="task2"> Task 2 </label><br>
   <input type="checkbox" id="task3" name="task3" value="Task3">
-  <label for="vehicle3"> Task 3 </label><br><br>`
+  <label for="task3"> Task 3 </label><br><br>`
 })
 export class AppComponent  { name = 'World'; }
